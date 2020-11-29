@@ -6,3 +6,5 @@ Braum
 Blau 
 Rot
 Orange
+Farbe vergessen
+Pink
